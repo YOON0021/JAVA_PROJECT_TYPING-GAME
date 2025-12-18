@@ -1,0 +1,8 @@
+yoon,500
+bbb,360
+YoonJun,200
+abcdefg,200
+윤준영,180
+YoonJunYoung,100
+aaa,80
+ccc,60
